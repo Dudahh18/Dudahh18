@@ -1,74 +1,82 @@
-<!-- HEADER COM ONDAS ROXAS -->
+<!-- HEADER ONDA ROXA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:E0AAFF&height=180&section=header&text=Maria%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:A78BFA&height=180&section=header&text=Dudahh18&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlign=80&fontWeight=700" />
 </p>
 
 <!-- TITULO ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Cyber+Security+Student+%F0%9F%94%90;Infrastructure+%26+Information+Security+%F0%9F%9B%A1%EF%B8%8F;Purple+Cyber+Girl+%F0%9F%92%9C;She%2FHer+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=Cyber+Security+Student+%F0%9F%94%90;Infrastructure+Defense+%F0%9F%9B%A1;Red+Team+%F0%9F%94%B4+%7C+Blue+Team+%F0%9F%94%B5;LGPD+%26+GRC+Specialist+%F0%9F%93%8A" />
 </p>
 
-<!-- DESENHO CENTRAL (GIRL CODING) -->
+<!-- AVATAR HACKER GIRL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/girl-coding.gif" width="280"/>
+  <img src="https://github.com/Dudahh18/Dudahh18/blob/main/profile-pic.png?raw=true" width="220" style="border-radius:50%;border:4px solid #C9A7EB;box-shadow:0 0 30px #C9A7EB40;"/>
 </p>
 
-<!-- DIVISOR COM BOLINHAS -->
+<!-- DIVISOR ROXO -->
 <p align="center">
-  • • • 💜 • • •
+  <span style="color:#C9A7EB">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 </p>
 
 ---
 
-### 🌸 About Me
-- 🎓 Computer Science student focused on Cyber Security  
-- 🔐 Interested in Infrastructure & Information Security  
-- 🛡️ Learning defensive security (Blue Team fundamentals)  
-- 💜 Purple aesthetics, terminals & technology  
+## 🛡️ **CORE SKILLS**
+Active Directory Admin 🔹 M365 / Azure AD VPN & Perimeter Defense 🔹 File Server Security
+Threat Monitoring 🔹 LGPD Compliance GRC Frameworks 🔹 Infrastructure Sec
+
+
+Copy code
 
 ---
 
-<!-- BOLHAS / ELEMENTO AESTHETIC -->
+## 🛠️ **TECH STACK**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284085-52b8c9a4-7e1c-4b6f-9c6e-6a3c5d5a7b36.svg" width="400"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Active_Directory-FFB900?style=for-the-badge&logo=microsoft&logoColor=black&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Azure_AD-00D4FF?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-365&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/VPN-00B140?style=for-the-badge&logo=openvpn&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/LGPD-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
+<!-- STATS CLEAN -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-C77DFF?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-C77DFF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-C77DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cyber_Security-C77DFF?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dudahh18&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=C9A7EB&text_color=ffffff&border_color=C9A7EB"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudahh18&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=C9A7EB&text_color=ffffff"/>
 </p>
 
 ---
 
-<!-- GRAFICOS "DE BOLA" -->
+<!-- DIVISOR MINIMAL -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dudahh18&show_icons=true&theme=radical&hide_border=true&border_radius=20"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudahh18&layout=compact&theme=radical&hide_border=true&border_radius=100"/>
+  <span style="color:#C9A7EB">─=≡Σ🖤∑≡=─</span>
 </p>
 
 ---
 
-<!-- DIVISOR FOFO -->
+## 📬 **CONNECT**
 <p align="center">
-  ✦ ✧ ✦ ✧ ✦
+<a href="https://www.linkedin.com/in/maria-eduarda-a-58238b1a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mealvesdeoliveira25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Dudahh18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 🌷 Let’s Connect
-- 💼 LinkedIn: *(colocar depois)*   
-
----
-
-<!-- FOOTER COM ONDAS -->
+<!-- FOOTER ONDA ROXA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:E0AAFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:A78BFA&height=120&section=footer&text=Cyber+Security+%F0%9F%94%90&fontSize=24&fontAlign=75&fontColor=ffffff"/>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Dudahh18&color=C9A7EB&style=flat-square" alt="V
