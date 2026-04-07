@@ -1,7 +1,7 @@
 <!-- TITULO ANIMADO GRANDE -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=800&lines=Cyber+Security+Student;Purple+Hacker+Girl;Blue+Team+%26+Pentest;She%2FHer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Menina+Hacker+%F0%9F%92%9C;Seguran%C3%A7a+Cibern%C3%A9tica+%F0%9F%94%90;Seguran%C3%A7a+%C3%89tica+%F0%9F%9B%A1%EF%B8%8F;Purple+Cyber+Vibes" 
   />
 </p>
 
