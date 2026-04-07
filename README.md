@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">💜 Maria Oliveira</h1>
 
-<!--
-**Dudahh18/Dudahh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cyber Security Student • Infrastructure & Information Security
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+she/her • 🛡️ Blue Team • 🔐 Cyber Defense
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```text
+> Access Granted...
+> User: Dudahh18
+> Role: Cyber Security Student
+> Status: Learning | Securing | Evolving
