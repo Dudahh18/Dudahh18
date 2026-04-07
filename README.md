@@ -64,8 +64,7 @@
 ---
 
 ### 🌷 Let’s Connect
-- 💼 LinkedIn: *(colocar depois)*  
-- 📸 Instagram tech: *(opcional)*  
+- 💼 LinkedIn: *(colocar depois)*   
 
 ---
 
