@@ -1,18 +1,18 @@
 <!-- HEADER MATRIX ROXO -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1a001f,100:3c096c&height=180&section=header&text=Maria%20Oliveira&fontSize=36&fontColor=C77DFF&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1a001f,100:3c096c&height=160&section=header&animation=fadeIn" 
   />
 </p>
 
-<!-- TITULO ANIMADO -->
+<!-- TITULO ANIMADO (SEM NOME) -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Purple+Hacker+Girl;Infrastructure+%26+InfoSec;She%2FHer" 
   />
 </p>
 
-<!-- MATRIX 0 E 1 DESCENDO -->
+<!-- MATRIX / 0 E 1 DESCENDO -->
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
@@ -20,27 +20,22 @@
   />
 </p>
 
-<!-- DIVISOR -->
 <p align="center">
   0 1 0 1 0 1 💜 1 0 1 0 1 0
 </p>
 
 ---
 
-### 🌸 About Me
-- 🎓 Computer Science student focused on Cyber Security  
-- 🔐 Infrastructure & Information Security  
-- 🛡️ Blue Team fundamentals  
-- 💜 Purple aesthetics & hacker vibes  
+<!-- ABOUT ME COM FONTE HACKER -->
+<h3 align="center">🌸 About Me</h3>
 
----
-
-<!-- CHUVA DE CÓDIGO (GIF HACKER) -->
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" 
-    width="420"
-  />
+  <code>
+    cyber security student<br/>
+    focused on infrastructure & information security<br/>
+    learning blue team fundamentals<br/>
+    purple aesthetics • terminals • hacking vibes
+  </code>
 </p>
 
 ---
@@ -54,7 +49,7 @@
 
 ---
 
-<!-- TEXTO TERMINAL HACKER -->
+<!-- BLOCO TERMINAL -->
 ```bash
 $ whoami
 Dudahh18
@@ -63,4 +58,4 @@ $ role
 cyber_security_student
 
 $ status
-learning && hacking_the_future 💜
+learning && securing_the_future 💜
