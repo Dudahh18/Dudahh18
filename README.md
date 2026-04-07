@@ -1,14 +1,7 @@
-<!-- HEADER MATRIX ROXO -->
+<!-- TITULO ANIMADO GRANDE -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1a001f,100:3c096c&height=160&section=header&animation=fadeIn" 
-  />
-</p>
-
-<!-- TITULO ANIMADO (SEM NOME) -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Purple+Hacker+Girl;Infrastructure+%26+InfoSec;She%2FHer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=800&lines=Cyber+Security+Student;Purple+Hacker+Girl;Blue+Team+%26+Pentest;She%2FHer" 
   />
 </p>
 
@@ -26,36 +19,34 @@
 
 ---
 
-<!-- ABOUT ME COM FONTE HACKER -->
+<!-- ABOUT ME COM ESTÉTICA -->
 <h3 align="center">🌸 About Me</h3>
 
 <p align="center">
-  <code>
-    cyber security student<br/>
-    focused on infrastructure & information security<br/>
-    learning blue team fundamentals<br/>
-    purple aesthetics • terminals • hacking vibes
-  </code>
+  <samp>
+    cyber security student<br>
+    focused on infrastructure & information security<br>
+    interest in blue team and pentest<br>
+    purple aesthetics • terminals • cybersecurity
+  </samp>
 </p>
 
 ---
 
-### 🛠️ Tools & Tech
+<!-- TOOLS & TECH -->
+<h3 align="center">🛠️ Tools & Tech</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-C77DFF?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-C77DFF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyber_Security-C77DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-C77DFF?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-C77DFF?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pentest-C77DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blue_Team-C77DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Red_Team-C77DFF?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- BLOCO TERMINAL -->
-```bash
-$ whoami
-Dudahh18
-
-$ role
-cyber_security_student
-
-$ status
-learning && securing_the_future 💜
+<p align="center">
+  ✦ ✧ ✦ ✧ ✦
+</p>
