@@ -1,47 +1,55 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B19CD9&center=true&vCenter=true&width=435&lines=>+Hello,+World.;>+I'm+a+Cybersecurity+Student.;>+System.out.println(%22Hacking...%22);" alt="Typing SVG" />
-</div>
 
----
+<!---------------------------------------- HACKER ANIMATION --------------------------------------->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0xC9A7EB&center=true&vCenter=true&width=435&lines=Cyber+Security+Student;Red+Team+%26+Blue+Team;Infrastructure+%26+Defense;GRC+%26+LGPD+Specialist;Hacking+the+Future+%F0%9F%90%89" alt="Typing SVG" />
+</p>
 
-### 👾 >_ Quem sou eu? [whoami]
+<!---------------------------------------- AVATAR & STATS --------------------------------------->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Dudahh18/Dudahh18/blob/main/profile-pic.png?raw=true" width="150" height="150" alt="Profile Picture"/>
+    </td>
+    <td align="center">
+      <b>🌐 Repos:</b> ![repos](https://img.shields.io/github/repo-size/Dudahh18/Dudahh18?color=0xC9A7EB&labelColor=0x1a1a1a&style=for-the-badge&logo=github)<br>
+      <b>⭐ Stars:</b> ![stars](https://img.shields.io/github/stars/Dudahh18?color=0xC9A7EB&labelColor=0x1a1a1a&style=for-the-badge)<br>
+      <b>📧 Contact:</b> mealvesdeoliveira25@gmail.com
+    </td>
+  </tr>
+</table>
 
-Olá! Sou um(a) estudante de **Cibersegurança** apaixonado(a) por desvendar sistemas, entender vulnerabilidades e proteger o ciberespaço. Quando não estou quebrando a cabeça em CTFs (Capture The Flag), estou explorando novas ferramentas no terminal ou aprimorando meus scripts de automação.
-
-- 🔭 Atualmente explorando: **Pentesting, Red Teaming e Criptografia**
-- 📚 Estudando: **Redes, Linux Avançado e Python para Segurança**
-- 🎯 Objetivo atual: Tirar minha primeira certificação (ex: CompTIA Security+) e dominar o Kali Linux.
-- ⚡ Curiosidade: [Adicione um fato divertido sobre você aqui, como seu filme hacker favorito ou hobbie]
-
----
-
-### 🛠️ >_ Meu Arsenal [ls -la /skills]
-
+<!---------------------------------------- SKILLS MATRIX --------------------------------------->
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=B19CD9" />
-  <img src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=B19CD9" />
-  <img src="https://img.shields.io/badge/Kali_Linux-141414?style=for-the-badge&logo=kali-linux&logoColor=B19CD9" />
-  <img src="https://img.shields.io/badge/Bash_Script-141414?style=for-the-badge&logo=gnu-bash&logoColor=B19CD9" />
-  <img src="https://img.shields.io/badge/Wireshark-141414?style=for-the-badge&logo=wireshark&logoColor=B19CD9" />
-  <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=B19CD9" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dudahh18&show_icons=true&theme=radical&bg_color=0x1a1a1a&title_color=0xC9A7EB&text_color=0xC9A7EB&border_color=0xC9A7EB&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudahh18&layout=compact&theme=radical&bg_color=0x1a1a1a&title_color=0xC9A7EB&text_color=0xC9A7EB&border_color=0xC9A7EB&hide_border=true" width="41%" align="right" />
 </div>
 
----
-
-### 📊 >_ Status do Sistema [top]
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=B19CD9&text_color=A9A9B3&icon_color=B19CD9" alt="Status do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=B19CD9&text_color=A9A9B3" alt="Linguagens Mais Usadas" height="150"/>
-</div>
-
----
-
-### 🌐 >_ Estabelecer Conexão [ping]
-
-<div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=B19CD9" target="_blank"></a>
-  <a href="mailto:SEU_EMAIL@email.com"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=B19CD9" target="_blank"></a>
-  <a href="https://tryhackme.com/p/SEU_USUARIO"><img src="https://img.shields.io/badge/TryHackMe-141414?style=for-the-badge&logo=tryhackme&logoColor=B19CD9" target="_blank"></a>
-  <a href="https://app.hackthebox.com/users/SEU_ID"><img src="https://img.shields.io/badge/HackTheBox-141414?style=for-the-badge&logo=hackthebox&logoColor=B19CD9" target="_blank"></a>
-</div>
+<!---------------------------------------- HACKER TERMINAL --------------------------------------->
+```bash
+╭─[Dudahh@cyber-defense]─[~]
+╰─$ whoami
+   👤 Maria Eduarda - Cyber Security Student
+╭─[Dudahh@cyber-defense]─[~]
+╰─$ skills --list
+   - Active Directory (AD) Admin
+   - Microsoft 365 / Azure AD
+   - VPN Configuration
+   - File Server Management
+   - Cyber Threat Monitoring
+   - LGPD & GRC Compliance
+╭─[Dudahh@cyber-defense]─[~]
+╰─$ certs --show
+   ✅ Cybersecurity Foundations (Microsoft)
+   ✅ GRC Specialist (LinkedIn Learning)
+   ✅ LGPD Certified (Bradesco)
+   ✅ Security in IT (Bradesco)
+╭─[Dudahh@cyber-defense]─[~]
+╰─$ neofetch
+       .-""""""""-.
+     .'          '.
+    /   ʕ •ᴥ•ʔ    \
+   : ,          : '
+    `._         _.'  
+       `"'"""""'"` 
+   CyberSec Student | Red 🟥 Team | Blue 🔵 Team
